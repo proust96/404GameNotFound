@@ -1,6 +1,8 @@
 # 404GameNotFound
 A small handmade arcade game coded overnight during a CodingNight event. December 2016. Unmodified.
 
+![Screenshot](img/screenshot.png)
+
 One of the night's challenges was to make an interactive 404 page, there I saw my chance. The entire event was dedicated to improving access to online ressources for migrants... at the time I thought my game was a good idea 
 
 I decided not to edit the code so we can all see what I'm capable of at 4am, after probably a seventh redbull.
